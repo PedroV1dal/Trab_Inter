@@ -3,8 +3,8 @@ Trabalho Interdisciplinar
 <p>Arquivo em java é um mockup de uma interface</p>
 
  <strong>Integrantes do Grupo:</strong></br>
- Daniel Luiz Campos
- John Weslley Silva Nascimento
- Matheus Santos Zanella
- Pedro Henrique Vidal
+ Daniel Luiz Campos</br>
+ John Weslley Silva Nascimento</br>
+ Matheus Santos Zanella</br>
+ Pedro Henrique Vidal</br>
  Wilmington Trindade Bento Junior
