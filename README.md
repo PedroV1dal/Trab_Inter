@@ -1,4 +1,4 @@
-Trabalho Interdisciplinar
+Trabalho Interdisciplinar de PA/ED/POO
 
 <p>Arquivo em java é um mockup de uma interface</p>
 
